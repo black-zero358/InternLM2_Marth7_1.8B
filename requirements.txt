@@ -21,7 +21,7 @@ bleach==6.1.0
 blinker==1.8.2
 # Brotli @ file:///croot/brotli-split_1714483155106/work
 cachetools==5.5.0
-certifi @ file:///croot/certifi_1725551672989/work/certifi
+# certifi @ file:///croot/certifi_1725551672989/work/certifi
 cffi==1.17.1
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
 click==8.1.7
